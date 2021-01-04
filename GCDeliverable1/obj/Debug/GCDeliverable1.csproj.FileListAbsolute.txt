@@ -1,0 +1,7 @@
+C:\Users\17dor\source\repos\GCDeliverable1\bin\Debug\GCDeliverable1.exe.config
+C:\Users\17dor\source\repos\GCDeliverable1\bin\Debug\GCDeliverable1.exe
+C:\Users\17dor\source\repos\GCDeliverable1\bin\Debug\GCDeliverable1.pdb
+C:\Users\17dor\source\repos\GCDeliverable1\obj\Debug\GCDeliverable1.csprojAssemblyReference.cache
+C:\Users\17dor\source\repos\GCDeliverable1\obj\Debug\GCDeliverable1.csproj.CoreCompileInputs.cache
+C:\Users\17dor\source\repos\GCDeliverable1\obj\Debug\GCDeliverable1.exe
+C:\Users\17dor\source\repos\GCDeliverable1\obj\Debug\GCDeliverable1.pdb
